@@ -18,9 +18,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Always building, learning and improving!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" width=300px alt="Gandalf" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35px"> Sobre mí</h2>
 <p>
   <em><b>🎓 Estudiando:</b></em> Ingeniería de Sistemas<br><br>
@@ -31,12 +29,7 @@
   <em><b>🎯 Meta:</b></em> Full-Stack Developer de clase mundial<br><br>
   <em><b>💡 Filosofía:</b></em> <i>Cada día es una oportunidad de aprendizaje</i>
 </p>
-</td>
-<td width="45%" valign="top">
-<img width="100%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tecnologías y Herramientas
