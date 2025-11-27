@@ -22,28 +22,12 @@
 <img align="right" width=300px alt="Gandalf" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mí...
 
-<h2 align="center">🧙 Sobre mí</h2>
-
-<div align="center">
-<img src="https://media.giphy.com/media/ObNTw8U2wy6K0/giphy.gif" width="95px" height="95px" />
-</div>
-
-<p align="center">
-  <i>Desarrollador que construye, rompe, aprende y vuelve a construir mejor.</i><br>
-  <i>Frontend con enfoque en Angular, rendimiento, UI limpia y buena experiencia.</i>
-</p>
-
----
-
-### 🧠 Resumen rápido
-
-- ✔ *Ingeniería de Sistemas en formación*  
-- 🔥 *Angular + TypeScript Lover*  
-- 🎨 *UI limpia & experiencias fluidas*  
-- 🚀 *Enfocado en código escalable y mantenible*
-
-
-
+✅ Estudiando: Ingeniería de Sistemas
+✅ Especializado: Angular + TypeScript
+✅ Apasionado: Diseño UI/UX y interfaces hermosas
+✅ Construyendo: Aplicaciones escalables con Clean Architecture
+✅ Meta: Frontend Developer de clase mundial
+✅ Filosofía: Cada día es una oportunidad de aprendizaje
 
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
