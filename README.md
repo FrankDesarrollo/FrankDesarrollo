@@ -58,8 +58,6 @@
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tecnologías y Herramientas
 </h2>
@@ -94,8 +92,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,graphql,webpack,vite,npm,yarn" height="60"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Estadísticas de GitHub
 </h2>
@@ -110,8 +106,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FrankDesarrollo&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BCF8&ring=38BCF8&fire=38BCF8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BCF8&sideLabels=38BCF8&dates=C9D1D9" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> Gráfico de Contribuciones
 </h2>
@@ -121,8 +115,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankDesarrollo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BCF8&line=38BCF8&point=C9D1D9&area=true&area_color=38BCF8" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35px"> Trofeos de GitHub
