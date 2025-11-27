@@ -28,7 +28,7 @@ Busco crecer profesionalmente aportando código bien estructurado, mantenible y 
 ### 🚀 Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,figma,java,python,nodejs,express,postgres,mysql,mongodb,git,github,docker,linux,vscode,ps,pr,ae,blender,canva" height="60" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,figma,java,python,nodejs,express,postgres,mysql,mongodb,git,github,docker,linux,vscode,ps,pr,ae,blender,canva" height="90" />
 </p>
 
 
@@ -66,5 +66,6 @@ Mi objetivo es consolidarme como Frontend Developer capaz de:
 
 📩 **Frankpalma0605@gmail.com**  
 🔗 Perfil: https://github.com/FrankDesarrollo  
+
 
 
