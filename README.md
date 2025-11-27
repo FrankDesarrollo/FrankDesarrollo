@@ -4,9 +4,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Frank David Palma</h1>
 <h3 align="center">Frontend Developer | Angular Specialist | UI/UX Enthusiast</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/tu-perfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-palma" height="30" width="40" /></a>
-  <a href="https://github.com/FrankDesarrollo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="frank-desarrollo" height="30" width="40" /></a>
-  <a href="mailto:frankpalma0605@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tu-perfil" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="frank-palma" height="50" width="50" /></a>
+  <a href="https://github.com/FrankDesarrollo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="frank-desarrollo" height="50" width="50" /></a>
+  <a href="mailto:frankpalma0605@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" /></a>
 </p>
 <p align="center">
   <em>
@@ -32,9 +32,8 @@
 ✅ Meta: Convertirme en un Frontend Developer de clase mundial
 ✅ Dato curioso: Creo que cada día es una oportunidad de aprendizaje
 
-<br><br>
 
-<h2 align="left">🛠️ Tecnologías y Herramientas</h2>
+<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
 Lenguajes de Programación: Java, Python, SQL
 Framework: Angular, React
 Bases de Datos: PostgreSQL, MySQL, SQLite
@@ -42,13 +41,14 @@ Herramientas de Desarrollo: Docker, Git, GitHub, Linux (Ubuntu), Android Studio
 Desarrollo Móvil: Android (Java)
 Modelamiento de Bases de Datos: Diseño relacional, manejo de roles y permisos, replicación de bases de datos
 Gestión de Proyectos: Metodologías ágiles (Scrum), planificación y control de versiones con Git
-<p align="left">
+<br/>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,bootstrap,react" height="50"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mysql,mongodb" height="50"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,photoshop" height="50"/>
 </p>
 
