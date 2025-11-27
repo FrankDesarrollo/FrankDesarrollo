@@ -30,21 +30,21 @@
 ✅ Filosofía: Cada día es una oportunidad de aprendizaje
 
 
-<h2 align="center">🛠️ Tecnologías y Herramientas</h2>
-Lenguajes de Programación: Java, Python, SQL
-Framework: Angular, React
-Bases de Datos: PostgreSQL, MySQL, SQLite
-Herramientas de Desarrollo: Docker, Git, GitHub, Linux (Ubuntu), Android Studio
-Desarrollo Móvil: Android (Java)
-Modelamiento de Bases de Datos: Diseño relacional, manejo de roles y permisos, replicación de bases de datos
-Gestión de Proyectos: Metodologías ágiles (Scrum), planificación y control de versiones con Git
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tecnologías y Herramientas
+</h2>
+<p align="center">
+  <em>Lenguajes, Frameworks y Herramientas que domino</em>
+</p>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind,bootstrap,react" height="50"/>
 </p>
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgres,mysql,mongodb" height="50"/>
 </p>
+<br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,photoshop" height="50"/>
 </p>
@@ -67,5 +67,3 @@ Gestión de Proyectos: Metodologías ágiles (Scrum), planificación y control d
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
-
-
