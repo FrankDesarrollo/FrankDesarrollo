@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-    <b>Full-Stack Developer</b> from <b>Cali, Colombia</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"><br>
+    <b>Full-Stack Developer</b> from <b>Cali, Colombia</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
     Especializado en <b>Frontend con Angular & TypeScript</b>, con sólidos conocimientos en <b>Backend, Bases de Datos, UI/UX y Diseño Gráfico</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
     Apasionado por construir <b>aplicaciones escalables</b> y crear <b>experiencias de usuario excepcionales</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
@@ -19,7 +19,7 @@
 </p>
 
 <img align="right" width=300px alt="Gandalf" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35px"> Sobre mí</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50px"> Sobre mí</h2>
 <p>
   <em><b>🎓 Estudiando:</b></em> Ingeniería de Sistemas<br><br>
   <em><b>💻 Especializado:</b></em> Angular + TypeScript (Frontend)<br><br>
@@ -82,4 +82,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
 
