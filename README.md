@@ -20,7 +20,7 @@
 
 <img align="right" width=380px alt="Gandalf" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30px"> Sobre mí</h2>
+<h2>🌟 Sobre mí</h2>
 
 <table>
 <tr>
@@ -50,10 +50,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <em><b>💡 Filosofía:</b> <i>Cada día es una oportunidad de aprendizaje</i></em>
-</p>
 
 <br clear="both"/>
 
@@ -108,6 +104,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
 
 
 
