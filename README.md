@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <em>
-    <b>Full-Stack Developer</b> from <b>Cali, Colombia</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
+    <b>Full-Stack Developer</b> from <b>Cali, Colombia</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"><br>
     Especializado en <b>Frontend con Angular & TypeScript</b>, con sólidos conocimientos en <b>Backend, Bases de Datos, UI/UX y Diseño Gráfico</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>
     Apasionado por construir <b>aplicaciones escalables</b> y crear <b>experiencias de usuario excepcionales</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
@@ -82,3 +82,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
